@@ -1,2 +1,5 @@
 # katas
-Katas para Innovacción virtual
+Katas para la misión Onboarding de Innovacción Virtual.
+
+
+
